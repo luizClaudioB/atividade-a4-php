@@ -1,0 +1,6954 @@
+
+2020/05/21 18:42:22:METHOD: GET
+2020/05/21 18:42:22:POST: Array
+(
+)
+
+2020/05/21 18:42:22:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 18:42:22:unlogged
+2020/05/21 18:50:19:METHOD: GET
+2020/05/21 18:50:19:POST: Array
+(
+)
+
+2020/05/21 18:50:19:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 18:50:19:unlogged
+2020/05/21 19:02:02:METHOD: GET
+2020/05/21 19:02:02:POST: Array
+(
+)
+
+2020/05/21 19:02:02:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:02:02:unlogged
+2020/05/21 19:02:25:METHOD: GET
+2020/05/21 19:02:25:POST: Array
+(
+)
+
+2020/05/21 19:02:25:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:02:25:unlogged
+2020/05/21 19:03:15:METHOD: GET
+2020/05/21 19:03:15:POST: Array
+(
+)
+
+2020/05/21 19:03:15:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:03:15:unlogged
+2020/05/21 19:03:43:METHOD: GET
+2020/05/21 19:03:43:POST: Array
+(
+)
+
+2020/05/21 19:03:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:03:43:unlogged
+2020/05/21 19:03:57:METHOD: GET
+2020/05/21 19:03:57:POST: Array
+(
+)
+
+2020/05/21 19:03:57:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:03:57:unlogged
+2020/05/21 19:04:42:METHOD: GET
+2020/05/21 19:04:42:POST: Array
+(
+)
+
+2020/05/21 19:04:42:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:04:42:unlogged
+2020/05/21 19:04:58:METHOD: GET
+2020/05/21 19:04:58:POST: Array
+(
+)
+
+2020/05/21 19:04:58:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:04:58:unlogged
+2020/05/21 19:05:16:METHOD: GET
+2020/05/21 19:05:16:POST: Array
+(
+)
+
+2020/05/21 19:05:16:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:05:16:unlogged
+2020/05/21 19:05:49:METHOD: GET
+2020/05/21 19:05:49:POST: Array
+(
+)
+
+2020/05/21 19:05:49:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:05:49:unlogged
+2020/05/21 19:05:54:METHOD: GET
+2020/05/21 19:05:54:POST: Array
+(
+)
+
+2020/05/21 19:05:54:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:05:54:unlogged
+2020/05/21 19:06:11:METHOD: GET
+2020/05/21 19:06:11:POST: Array
+(
+)
+
+2020/05/21 19:06:11:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:06:11:unlogged
+2020/05/21 19:06:16:METHOD: GET
+2020/05/21 19:06:16:POST: Array
+(
+)
+
+2020/05/21 19:06:16:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:06:16:unlogged
+2020/05/21 19:06:21:METHOD: GET
+2020/05/21 19:06:21:POST: Array
+(
+)
+
+2020/05/21 19:06:21:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:06:21:unlogged
+2020/05/21 19:06:43:METHOD: GET
+2020/05/21 19:06:43:POST: Array
+(
+)
+
+2020/05/21 19:06:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:06:43:unlogged
+2020/05/21 19:07:07:METHOD: GET
+2020/05/21 19:07:07:POST: Array
+(
+)
+
+2020/05/21 19:07:07:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:07:07:unlogged
+2020/05/21 19:07:27:METHOD: GET
+2020/05/21 19:07:27:POST: Array
+(
+)
+
+2020/05/21 19:07:27:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:07:27:unlogged
+2020/05/21 19:07:44:METHOD: GET
+2020/05/21 19:07:44:POST: Array
+(
+)
+
+2020/05/21 19:07:44:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:07:44:unlogged
+2020/05/21 19:07:56:METHOD: GET
+2020/05/21 19:07:56:POST: Array
+(
+)
+
+2020/05/21 19:07:56:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:07:56:unlogged
+2020/05/21 19:08:03:METHOD: GET
+2020/05/21 19:08:03:POST: Array
+(
+)
+
+2020/05/21 19:08:03:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:03:unlogged
+2020/05/21 19:08:15:METHOD: GET
+2020/05/21 19:08:15:POST: Array
+(
+)
+
+2020/05/21 19:08:15:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:15:unlogged
+2020/05/21 19:08:24:METHOD: GET
+2020/05/21 19:08:24:POST: Array
+(
+)
+
+2020/05/21 19:08:24:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:24:unlogged
+2020/05/21 19:08:30:METHOD: GET
+2020/05/21 19:08:30:POST: Array
+(
+)
+
+2020/05/21 19:08:30:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:30:unlogged
+2020/05/21 19:08:37:METHOD: GET
+2020/05/21 19:08:37:POST: Array
+(
+)
+
+2020/05/21 19:08:37:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:37:unlogged
+2020/05/21 19:08:42:METHOD: GET
+2020/05/21 19:08:42:POST: Array
+(
+)
+
+2020/05/21 19:08:42:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:42:unlogged
+2020/05/21 19:08:51:METHOD: GET
+2020/05/21 19:08:51:POST: Array
+(
+)
+
+2020/05/21 19:08:51:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:08:51:unlogged
+2020/05/21 19:09:01:METHOD: GET
+2020/05/21 19:09:01:POST: Array
+(
+)
+
+2020/05/21 19:09:01:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:09:01:unlogged
+2020/05/21 19:09:56:METHOD: GET
+2020/05/21 19:09:56:POST: Array
+(
+)
+
+2020/05/21 19:09:56:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:09:56:unlogged
+2020/05/21 19:10:04:METHOD: GET
+2020/05/21 19:10:04:POST: Array
+(
+)
+
+2020/05/21 19:10:04:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:10:04:unlogged
+2020/05/21 19:10:11:METHOD: GET
+2020/05/21 19:10:11:POST: Array
+(
+)
+
+2020/05/21 19:10:11:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:10:11:unlogged
+2020/05/21 19:13:45:METHOD: GET
+2020/05/21 19:13:45:POST: Array
+(
+)
+
+2020/05/21 19:13:45:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:13:45:unlogged
+2020/05/21 19:18:40:METHOD: GET
+2020/05/21 19:18:40:POST: Array
+(
+)
+
+2020/05/21 19:18:40:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:18:40:unlogged
+2020/05/21 19:18:57:METHOD: GET
+2020/05/21 19:18:57:POST: Array
+(
+)
+
+2020/05/21 19:18:57:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:18:57:unlogged
+2020/05/21 19:19:52:METHOD: GET
+2020/05/21 19:19:52:POST: Array
+(
+)
+
+2020/05/21 19:19:52:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:19:52:unlogged
+2020/05/21 19:20:07:METHOD: GET
+2020/05/21 19:20:07:POST: Array
+(
+)
+
+2020/05/21 19:20:07:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:20:07:unlogged
+2020/05/21 19:20:34:METHOD: GET
+2020/05/21 19:20:34:POST: Array
+(
+)
+
+2020/05/21 19:20:34:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:20:34:unlogged
+2020/05/21 19:20:45:METHOD: GET
+2020/05/21 19:20:45:POST: Array
+(
+)
+
+2020/05/21 19:20:45:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:20:45:unlogged
+2020/05/21 19:20:52:METHOD: GET
+2020/05/21 19:20:52:POST: Array
+(
+)
+
+2020/05/21 19:20:52:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:20:52:unlogged
+2020/05/21 19:20:58:METHOD: GET
+2020/05/21 19:20:58:POST: Array
+(
+)
+
+2020/05/21 19:20:58:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:20:58:unlogged
+2020/05/21 19:22:49:METHOD: GET
+2020/05/21 19:22:49:POST: Array
+(
+)
+
+2020/05/21 19:22:49:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:22:49:unlogged
+2020/05/21 19:22:56:METHOD: GET
+2020/05/21 19:22:56:POST: Array
+(
+)
+
+2020/05/21 19:22:56:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:22:56:unlogged
+2020/05/21 19:23:15:METHOD: GET
+2020/05/21 19:23:15:POST: Array
+(
+)
+
+2020/05/21 19:23:15:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:23:15:unlogged
+2020/05/21 19:23:19:METHOD: GET
+2020/05/21 19:23:19:POST: Array
+(
+)
+
+2020/05/21 19:23:19:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:23:19:unlogged
+2020/05/21 19:23:34:METHOD: GET
+2020/05/21 19:23:34:POST: Array
+(
+)
+
+2020/05/21 19:23:34:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:23:34:unlogged
+2020/05/21 19:23:42:METHOD: GET
+2020/05/21 19:23:42:POST: Array
+(
+)
+
+2020/05/21 19:23:42:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:23:42:unlogged
+2020/05/21 19:23:55:METHOD: GET
+2020/05/21 19:23:55:POST: Array
+(
+)
+
+2020/05/21 19:23:55:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:23:55:unlogged
+2020/05/21 19:24:05:METHOD: GET
+2020/05/21 19:24:05:POST: Array
+(
+)
+
+2020/05/21 19:24:05:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:24:05:unlogged
+2020/05/21 19:24:10:METHOD: GET
+2020/05/21 19:24:10:POST: Array
+(
+)
+
+2020/05/21 19:24:10:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:24:10:unlogged
+2020/05/21 19:24:19:METHOD: GET
+2020/05/21 19:24:19:POST: Array
+(
+)
+
+2020/05/21 19:24:19:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:24:19:unlogged
+2020/05/21 19:24:27:METHOD: GET
+2020/05/21 19:24:27:POST: Array
+(
+)
+
+2020/05/21 19:24:27:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:24:27:unlogged
+2020/05/21 19:25:12:METHOD: GET
+2020/05/21 19:25:12:POST: Array
+(
+)
+
+2020/05/21 19:25:12:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:25:12:unlogged
+2020/05/21 19:25:58:METHOD: GET
+2020/05/21 19:25:58:POST: Array
+(
+)
+
+2020/05/21 19:25:58:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:25:58:unlogged
+2020/05/21 19:27:58:METHOD: POST
+2020/05/21 19:27:58:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 19:27:58:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+)
+
+2020/05/21 19:27:58:handling login
+2020/05/21 19:27:58:checking user luiz@hotmail.com, adoleta123 in 
+2020/05/21 19:27:58:userExist: 
+2020/05/21 19:28:07:METHOD: GET
+2020/05/21 19:28:07:POST: Array
+(
+)
+
+2020/05/21 19:28:07:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:28:45:METHOD: GET
+2020/05/21 19:28:45:POST: Array
+(
+)
+
+2020/05/21 19:28:45:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:28:49:METHOD: POST
+2020/05/21 19:28:49:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 19:28:49:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:28:49:handling login
+2020/05/21 19:28:49:checking user luiz@hotmail.com, adoleta123 in 
+2020/05/21 19:28:49:userExist: 
+2020/05/21 19:29:18:METHOD: GET
+2020/05/21 19:29:18:POST: Array
+(
+)
+
+2020/05/21 19:29:18:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:31:48:METHOD: GET
+2020/05/21 19:31:48:POST: Array
+(
+)
+
+2020/05/21 19:31:48:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:32:12:METHOD: GET
+2020/05/21 19:32:12:POST: Array
+(
+)
+
+2020/05/21 19:32:12:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:32:20:METHOD: GET
+2020/05/21 19:32:20:POST: Array
+(
+)
+
+2020/05/21 19:32:20:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:32:43:METHOD: GET
+2020/05/21 19:32:43:POST: Array
+(
+)
+
+2020/05/21 19:32:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:32:58:METHOD: GET
+2020/05/21 19:32:58:POST: Array
+(
+)
+
+2020/05/21 19:32:58:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:33:30:METHOD: GET
+2020/05/21 19:33:30:POST: Array
+(
+)
+
+2020/05/21 19:33:30:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:33:37:METHOD: GET
+2020/05/21 19:33:37:POST: Array
+(
+)
+
+2020/05/21 19:33:37:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:33:51:METHOD: GET
+2020/05/21 19:33:51:POST: Array
+(
+)
+
+2020/05/21 19:33:51:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:34:33:METHOD: GET
+2020/05/21 19:34:33:POST: Array
+(
+)
+
+2020/05/21 19:34:33:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:34:46:METHOD: GET
+2020/05/21 19:34:46:POST: Array
+(
+)
+
+2020/05/21 19:34:46:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:34:57:METHOD: GET
+2020/05/21 19:34:57:POST: Array
+(
+)
+
+2020/05/21 19:34:57:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:35:57:METHOD: GET
+2020/05/21 19:35:57:POST: Array
+(
+)
+
+2020/05/21 19:35:57:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:35:59:METHOD: GET
+2020/05/21 19:35:59:POST: Array
+(
+)
+
+2020/05/21 19:35:59:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:36:27:METHOD: GET
+2020/05/21 19:36:27:POST: Array
+(
+)
+
+2020/05/21 19:36:27:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:36:51:METHOD: GET
+2020/05/21 19:36:51:POST: Array
+(
+)
+
+2020/05/21 19:36:51:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:12:METHOD: GET
+2020/05/21 19:37:12:POST: Array
+(
+)
+
+2020/05/21 19:37:12:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:28:METHOD: GET
+2020/05/21 19:37:28:POST: Array
+(
+)
+
+2020/05/21 19:37:28:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:34:METHOD: GET
+2020/05/21 19:37:34:POST: Array
+(
+)
+
+2020/05/21 19:37:34:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:39:METHOD: GET
+2020/05/21 19:37:39:POST: Array
+(
+)
+
+2020/05/21 19:37:39:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:50:METHOD: GET
+2020/05/21 19:37:50:POST: Array
+(
+)
+
+2020/05/21 19:37:50:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:37:56:METHOD: GET
+2020/05/21 19:37:56:POST: Array
+(
+)
+
+2020/05/21 19:37:56:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:38:00:METHOD: GET
+2020/05/21 19:38:00:POST: Array
+(
+)
+
+2020/05/21 19:38:00:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:38:13:METHOD: GET
+2020/05/21 19:38:13:POST: Array
+(
+)
+
+2020/05/21 19:38:13:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:38:24:METHOD: GET
+2020/05/21 19:38:24:POST: Array
+(
+)
+
+2020/05/21 19:38:24:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:38:28:METHOD: GET
+2020/05/21 19:38:28:POST: Array
+(
+)
+
+2020/05/21 19:38:28:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:39:11:METHOD: GET
+2020/05/21 19:39:11:POST: Array
+(
+)
+
+2020/05/21 19:39:11:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:39:32:METHOD: GET
+2020/05/21 19:39:32:POST: Array
+(
+)
+
+2020/05/21 19:39:32:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:39:44:METHOD: GET
+2020/05/21 19:39:44:POST: Array
+(
+)
+
+2020/05/21 19:39:44:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:40:23:METHOD: GET
+2020/05/21 19:40:23:POST: Array
+(
+)
+
+2020/05/21 19:40:23:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:40:40:METHOD: GET
+2020/05/21 19:40:40:POST: Array
+(
+)
+
+2020/05/21 19:40:40:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:41:03:METHOD: GET
+2020/05/21 19:41:03:POST: Array
+(
+)
+
+2020/05/21 19:41:03:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:41:43:METHOD: GET
+2020/05/21 19:41:43:POST: Array
+(
+)
+
+2020/05/21 19:41:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:41:54:METHOD: GET
+2020/05/21 19:41:54:POST: Array
+(
+)
+
+2020/05/21 19:41:54:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:42:24:METHOD: GET
+2020/05/21 19:42:24:POST: Array
+(
+)
+
+2020/05/21 19:42:24:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:42:31:METHOD: GET
+2020/05/21 19:42:31:POST: Array
+(
+)
+
+2020/05/21 19:42:31:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:42:43:METHOD: GET
+2020/05/21 19:42:43:POST: Array
+(
+)
+
+2020/05/21 19:42:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:42:59:METHOD: GET
+2020/05/21 19:42:59:POST: Array
+(
+)
+
+2020/05/21 19:42:59:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:01:METHOD: GET
+2020/05/21 19:43:01:POST: Array
+(
+)
+
+2020/05/21 19:43:01:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:11:METHOD: GET
+2020/05/21 19:43:11:POST: Array
+(
+)
+
+2020/05/21 19:43:11:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:24:METHOD: GET
+2020/05/21 19:43:24:POST: Array
+(
+)
+
+2020/05/21 19:43:24:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:29:METHOD: GET
+2020/05/21 19:43:29:POST: Array
+(
+)
+
+2020/05/21 19:43:29:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:36:METHOD: GET
+2020/05/21 19:43:36:POST: Array
+(
+)
+
+2020/05/21 19:43:36:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:43:METHOD: GET
+2020/05/21 19:43:43:POST: Array
+(
+)
+
+2020/05/21 19:43:43:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:43:50:METHOD: GET
+2020/05/21 19:43:50:POST: Array
+(
+)
+
+2020/05/21 19:43:50:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:02:METHOD: GET
+2020/05/21 19:44:02:POST: Array
+(
+)
+
+2020/05/21 19:44:02:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:07:METHOD: GET
+2020/05/21 19:44:07:POST: Array
+(
+)
+
+2020/05/21 19:44:07:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:15:METHOD: GET
+2020/05/21 19:44:15:POST: Array
+(
+)
+
+2020/05/21 19:44:15:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:20:METHOD: GET
+2020/05/21 19:44:20:POST: Array
+(
+)
+
+2020/05/21 19:44:20:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:31:METHOD: GET
+2020/05/21 19:44:31:POST: Array
+(
+)
+
+2020/05/21 19:44:31:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:44:45:METHOD: GET
+2020/05/21 19:44:45:POST: Array
+(
+)
+
+2020/05/21 19:44:45:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:48:57:METHOD: POST
+2020/05/21 19:48:57:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 19:48:57:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:48:57:handling login
+2020/05/21 19:48:57:checking user luiz@hotmail.com, adoleta123 in 
+2020/05/21 19:48:57:userExist: 
+2020/05/21 19:51:51:METHOD: GET
+2020/05/21 19:51:51:POST: Array
+(
+)
+
+2020/05/21 19:51:51:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:53:31:METHOD: GET
+2020/05/21 19:53:31:POST: Array
+(
+)
+
+2020/05/21 19:53:31:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:53:35:METHOD: POST
+2020/05/21 19:53:35:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 19:53:35:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 19:53:35:handling login
+2020/05/21 19:53:35:checking user luiz@hotmail.com, adoleta123 in Array
+(
+    [0] => Array
+        (
+            [admin_name] => lucashenrique@hotmail.com
+            [password] => senhaboa123
+        )
+
+)
+
+2020/05/21 19:53:35:userExist: 
+2020/05/21 20:39:07:METHOD: GET
+2020/05/21 20:39:07:POST: Array
+(
+)
+
+2020/05/21 20:39:07:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 20:40:05:METHOD: POST
+2020/05/21 20:40:05:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 20:40:05:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 20:40:05:handling login
+2020/05/21 20:40:05:checking user luiz@hotmail.com, adoleta123 in Array
+(
+    [0] => Array
+        (
+            [admin_name] => lucashenrique@hotmail.com
+            [password] => senhaboa123
+        )
+
+    [1] => Array
+        (
+            [admin_name] => raphaelhenrique@hotmail.com
+            [password] => senhaboa123
+        )
+
+)
+
+2020/05/21 20:40:05:userExist: 
+2020/05/21 21:01:46:METHOD: GET
+2020/05/21 21:01:46:POST: Array
+(
+)
+
+2020/05/21 21:01:46:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 21:01:55:METHOD: POST
+2020/05/21 21:01:55:POST: Array
+(
+    [admin_name] => luiz@hotmail.com
+    [password] => adoleta123
+    [operation] => login
+)
+
+2020/05/21 21:01:55:SESSION: Array
+(
+    [DADOS] => Array
+        (
+            [0] => Array
+                (
+                    [nome] => 
+                )
+
+            [1] => Array
+                (
+                    [nome] => asdsa
+                )
+
+            [2] => Array
+                (
+                    [nome] => aaaaaa
+                )
+
+            [3] => Array
+                (
+                    [nome] => abecete
+                )
+
+            [4] => Array
+                (
+                    [nome] => 
+                )
+
+            [5] => Array
+                (
+                    [nome] => absurdo
+                )
+
+            [6] => Array
+                (
+                    [nome] => absolutamente absurdo
+                )
+
+            [7] => Array
+                (
+                    [nome] => Luiz Claudio
+                    [senha] => Bosco
+                )
+
+        )
+
+    [NOME] => Luiz Claudio
+    [SENHA] => Bosco
+    [userData] => Array
+        (
+            [isLogged] => 
+        )
+
+)
+
+2020/05/21 21:01:55:handling login
+2020/05/21 21:01:55:checking user luiz@hotmail.com, adoleta123 in Array
+(
+    [0] => Array
+        (
+            [admin_name] => lucashenrique@hotmail.com
+            [password] => senhaboa123
+        )
+
+    [1] => Array
+        (
+            [admin_name] => raphaelhenrique@hotmail.com
+            [password] => senhaboa123
+        )
+
+)
+2020/05/21 21:01:55:userExist: 
+2020/05/22 14:15:24:METHOD: GET
+2020/05/22 14:15:24:POST: Array
+(
+)
+
+2020/05/22 14:15:24:SESSION: Array
+(
+)
+
+2020/05/22 14:15:24:unlogged
+2020/05/22 14:15:25:METHOD: GET
+2020/05/22 14:15:25:POST: Array
+(
+)
+
+2020/05/22 14:15:25:SESSION: Array
+(
+)
+
+2020/05/22 14:15:25:unlogged

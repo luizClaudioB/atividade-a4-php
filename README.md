@@ -1,1 +1,4 @@
-# atividade-a4-php
+# Admin
+
+# Para acessar admin, utilizar:
+# user: usuario@usuario /// senha: senha123
