@@ -147,7 +147,7 @@ function Session() {
     }
 
     this.sendCRUDRequest = function(operation, entity) {
-        const request = HttpRequest.getInstance(HttpRequest.POST, 'https://admin-soseguros.000webhostapp.com/ws-crud.php');
+        const request = HttpRequest.getInstance(HttpRequest.POST, 'https://admin-soseguros.000webhostapp.com/handle-request.php');
         const parameters = {
             operation,
             entity
